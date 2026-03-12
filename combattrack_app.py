@@ -634,3 +634,6 @@ with tab3:
 
         with st.expander("HP History", expanded=False):
             display_round_history(engine)
+
+        with st.expander("HP History", expanded=False):
+            display_round_history(engine)
